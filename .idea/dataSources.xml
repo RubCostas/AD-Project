@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="productos" uuid="3689b6fb-a57a-42d3-9701-047bcf7e3cb0">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>d61da5c7-b451-4d51-a1c2-b2913be21aa0</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/data/productos.db</jdbc-url>
